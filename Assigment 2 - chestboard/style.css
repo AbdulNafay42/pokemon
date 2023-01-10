@@ -1,0 +1,153 @@
+
+        .container{
+             width:60%;
+             margin-left: 20% ;
+             margin-right: 20%;
+            
+            }
+
+        .box{
+            width: 100px;
+            height: 80px;
+            border: 1px solid black;
+            display: inline-block;
+           background-color: white;
+           text-align: center;
+           font-weight: 100;
+           font-size: 50px;
+           text-align: center;
+        }
+        .black{
+            width: 100px;
+            height: 80px;
+            border: 1px solid black;
+            display: inline-block;
+            background-color: brown;
+            text-align: center;
+            font-weight: 100;
+            font-size: 50px;
+            color: white;
+        }
+        .b1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+            font-size: 50px;
+            font-weight: 100;
+            text-align: center;
+            color: #fff;
+        }
+        .b2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: #fff;
+            font-size: 50px;
+            font-weight: 100;
+            text-align: center;
+            color: #000;
+        }
+        .c1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid brown;
+            display: inline-block;
+            background-color: #fff;
+        }
+        .c2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+        }
+        .d1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+        }
+        .d2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: #fff;
+        }
+
+        .e1 {
+           width: 100px;
+           height: 80px;
+           border: 1px solid #000;
+           display: inline-block;
+           background-color: #fff;
+        }
+        .e2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+        }
+        .f1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+        }
+        .f2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: #fff;
+        }
+        .g1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: #fff;
+            font-size: 50px;
+            font-weight: 100;
+            text-align: center;
+            color: #000;
+        }
+        .g2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+            font-size: 50px;
+            font-weight: 100;
+            color: #fff;
+            text-align: center;
+        }
+        .h1 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: brown;
+            font-size: 50px;
+            font-weight: 100;
+            text-align: center;
+            color: #fff;
+        }
+        .h2 {
+            width: 100px;
+            height: 80px;
+            border: 1px solid #000;
+            display: inline-block;
+            background-color: #fff;
+            font-size: 50px;
+            font-weight: 100;
+            text-align: center;
+            color: brown;
+        }
